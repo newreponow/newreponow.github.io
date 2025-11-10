@@ -47,3 +47,55 @@ google.com, pub-8834194653550774, DIRECT, f08c47fec0942fa0
 google.com, pub-8309773808661346, DIRECT, f08c47fec0942fa0
 google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
 google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
+
+
+google.com, pub-3977122154505186, RESELLER, f08c47fec0942fa0
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+onetag.com, 774083553572acc, DIRECT
+nexverse.ai, 24099, DIRECT
+incrementx.com,60516, DIRECT, 8728b7e97e589da4
+opera.com,pub13269721034304,Direct,55a0c5fd61378de3
+ogury.com, 9db1a2cd-9d75-409d-bdad-9256079510a2, RESELLER
+richaudience.com, aBsjx0dYzz, RESELLER
+inmobi.com, 64390d9c0d0541bc9b06ab42a124b396, DIRECT, 83e75a7ae333ca9d
+pubmatic.com, 161652, DIRECT, 5d62403b186f2ace
+bidmatic.io, b-b54fe, DIRECT
+rubiconproject.com, 26884, DIRECT, 0bfd66d529a55807
+adtelligent.com, 742654, DIRECT, 8ce87912eb022a51
+152media.info,152M747,RESELLER
+eskimi.com ,  2020000768, RESELLER
+smilewanted.com, 4548, DIRECT
+adagio.io, 1539, RESELLER
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+nextmillennium.io, 17081, DIRECT, 65bd090fa4a1e3d6
+admagnetix.io, 202074, DIRECT
+minutemedia.com, 01k1xjvjf85r, DIRECT
+minutemedia.com, 01k1xjvjf85r, RESELLER
+rtbdemand.com, 22924162683, DIRECT
+google.com, pub-3872674820285626, RESELLER, f08c47fec0942fa0
+whitemediasolutions.com, 9990, DIRECT
+google.com, pub-8863191426564274, RESELLER, f08c47fec0942fa0
+Pubmatic.com, 161026, RESELLER, 5d62403b186f2ace
+Nexverse.ai, 24095, Direct
+inmobi.com, 9ee4d8a2685f422eacd68b95d1f3c019, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 27320, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 27322, RESELLER, 0bfd66d529a55807
+start.io, 197403684, RESELLER
+themediagrid.com, 64NHQ1, RESELLER, 35d5010d7789b49d
+orangeclickmedia.com, C-1242, RESELLER
+markappmedia.site, C-1242, RESELLER
+smaato.com, 1100053415, RESELLER, 07bcf65f187117b4
+rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
+smartadserver.com, 5070, RESELLER, 060d053dcf45cbf3
+smartyads.com, 300144, RESELLER, fd2bde0ff2e62c5d
+adyoulike.com, d47142c399441c4bad6cfa440002cce8, DIRECT
+appnexus.com, 7664, RESELLER
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
+pubmatic.com, 160925, RESELLER, 5d62403b186f2ace
+adform.com, 3296, RESELLER, 9f5210a2f0999e32
+richaudience.com, JAHJ4YZq4O, RESELLER
+lijit.com, 408376, RESELLER, fafdf38b16bf6b2b
+onetag.com, 7a07370227fc000, RESELLER
+nobid.io, 50603, RESELLER
+nativo.com, 5848, RESELLER, 59521ca7cc5e9fee
