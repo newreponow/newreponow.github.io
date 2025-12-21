@@ -1,12 +1,6 @@
 #=== Google
 google.com, pub-1626659347226209, DIRECT, f08c47fec0942fa0
 
-#=== AudienceNetwork
-facebook.com, 1653697615465641, DIRECT, c3e20eee3f780d68
-
-#=== Google
-google.com, pub-1626659347226209, DIRECT, f08c47fec0942fa0
-
 monitize-media.com, 159098, DIRECT, 5d09203b990f1ace
 #Google
 google.com, pub-8766006423657606, DIRECT, f08c47fec0942fa0
@@ -19,7 +13,6 @@ google.com, pub-8258660799960767, RESELLER, f08c47fec0942fa0
 google.com, pub-3872674820285626, DIRECT, f08c47fec0942fa0
 
 #Onetag - EB
-undrads.com, 0e6a1e0dc65b4fb1a2ee9026d5f87276, DIRECT, af377814dd864068
 onetag.com, 8d771d7be8a1bfa, DIRECT
 onetag.com, 8d771d7be8a1bfa-OB, DIRECT
 appnexus.com, 13099, RESELLER
@@ -51,7 +44,6 @@ rubiconproject.com, 26884, DIRECT, 0bfd66d529a55807
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 152media.info, 152M21, RESELLER
 openx.com, 539848768, RESELLER, 6a698e2ec38604c6 
-
 google.com, pub-2509511211458165, DIRECT, f08c47fec0942fa0
 google.com, pub-9407425605602250, DIRECT, f08c47fec0942fa0
 yahoo.com, 59636, DIRECT, e1a5b5b6e3255540 
